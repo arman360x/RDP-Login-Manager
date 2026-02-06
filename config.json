@@ -1,0 +1,6 @@
+{
+    "auto_lock_minutes": 5,
+    "clear_credentials_on_close": true,
+    "default_port": 3389,
+    "default_screen_mode": 2
+}
